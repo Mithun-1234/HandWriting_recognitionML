@@ -1,2 +1,0 @@
-# HandWriting_recognitionML
- 
